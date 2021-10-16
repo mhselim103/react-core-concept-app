@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.person {
+  background-color: red;
+  color:white;
+  border: 10px solid red;
+  margin-top: 20px;
+}
